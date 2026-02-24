@@ -1,16 +1,14 @@
-## Hi there 👋
+# Aditya Choudhury
 
-<!--
-**syncwithadi/syncwithadi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Founder of Oryxen Systems Private Limited.
 
-Here are some ideas to get you started:
+I build scalable full-stack applications and AI-powered systems focused on performance, structure, and long-term maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tech Stack
+- React
+- Next.js
+- Node.js
+- MongoDB
+- System Architecture
+
+🌐 Website: https://oryxen.co.in
